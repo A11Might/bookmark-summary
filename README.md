@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-10-16) [2~3年的打工人状态——就这？](202410/2024-10-16-2~3%E5%B9%B4%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%E7%8A%B6%E6%80%81%E2%80%94%E2%80%94%E5%B0%B1%E8%BF%99%EF%BC%9F.md)
 - (2024-10-15) [How I Built My Blog • Josh W. Comeau](202410/2024-10-15-how-i-built-my-blog-%E2%80%A2-josh-w.-comeau.md)
 - (2024-10-14) [Server Setup Basics](202410/2024-10-14-server-setup-basics.md)
 - (2024-10-13) [专为 Gopher 准备的 Markdown 教程 - 墨天轮](202410/2024-10-13-%E4%B8%93%E4%B8%BA-gopher-%E5%87%86%E5%A4%87%E7%9A%84-markdown-%E6%95%99%E7%A8%8B---%E5%A2%A8%E5%A4%A9%E8%BD%AE.md)
