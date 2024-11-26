@@ -64,5 +64,11 @@
     "title": "Lazygit Turns 5: Musings on Git, TUIs, and Open Source",
     "url": "https://jesseduffield.com/Lazygit-5-Years-On/",
     "timestamp": 1732367176
+  },
+  {
+    "month": "202411",
+    "title": "Glassdb: transactional object storage",
+    "url": "https://blog.mbrt.dev/posts/transactional-object-storage/",
+    "timestamp": 1732581314
   }
 ]
