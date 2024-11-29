@@ -70,5 +70,11 @@
     "title": "Glassdb: transactional object storage",
     "url": "https://blog.mbrt.dev/posts/transactional-object-storage/",
     "timestamp": 1732581314
+  },
+  {
+    "month": "202411",
+    "title": "Tech Notes: The Success and Failure of Ninja",
+    "url": "https://neugierig.org/software/blog/2020/05/ninja.html",
+    "timestamp": 1732839894
   }
 ]
