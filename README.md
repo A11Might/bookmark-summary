@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-02) [Fine! I'll Play With Skiplists](202412/2024-12-02-fine%21-i%27ll-play-with-skiplists.md)
 - (2024-11-29) [Tech Notes: The Success and Failure of Ninja](202411/2024-11-29-tech-notes-the-success-and-failure-of-ninja.md)
 - (2024-11-26) [Glassdb: transactional object storage](202411/2024-11-26-glassdb-transactional-object-storage.md)
 - (2024-11-23) [Lazygit Turns 5: Musings on Git, TUIs, and Open Source](202411/2024-11-23-lazygit-turns-5-musings-on-git%2C-tuis%2C-and-open-source.md)
