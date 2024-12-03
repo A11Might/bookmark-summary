@@ -82,5 +82,11 @@
     "title": "Fine! I'll Play With Skiplists",
     "url": "https://buttondown.com/jaffray/archive/fine-ill-play-with-skiplists/",
     "timestamp": 1733099497
+  },
+  {
+    "month": "202412",
+    "title": "WireGuard at Modal: Static IPs for Serverless Containers",
+    "url": "https://modal.com/blog/vprox",
+    "timestamp": 1733185760
   }
 ]
