@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-05) [A Made-up Name is Better Than No Name | Marcus' Blog](202412/2024-12-05-a-made-up-name-is-better-than-no-name-marcus%27-blog.md)
 - (2024-12-03) [WireGuard at Modal: Static IPs for Serverless Containers](202412/2024-12-03-wireguard-at-modal-static-ips-for-serverless-containers.md)
 - (2024-12-02) [Fine! I'll Play With Skiplists](202412/2024-12-02-fine%21-i%27ll-play-with-skiplists.md)
 - (2024-11-29) [Tech Notes: The Success and Failure of Ninja](202411/2024-11-29-tech-notes-the-success-and-failure-of-ninja.md)

@@ -88,5 +88,11 @@
     "title": "WireGuard at Modal: Static IPs for Serverless Containers",
     "url": "https://modal.com/blog/vprox",
     "timestamp": 1733185760
+  },
+  {
+    "month": "202412",
+    "title": "A Made-up Name is Better Than No Name | Marcus' Blog",
+    "url": "https://mbuffett.com/posts/a-made-up-name/",
+    "timestamp": 1733357991
   }
 ]
