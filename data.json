@@ -100,5 +100,11 @@
     "title": "digital consumption keeps me from getting better at my job",
     "url": "gecicidegisken.github.io/digital-consumption.html",
     "timestamp": 1733877024
+  },
+  {
+    "month": "202412",
+    "title": "Research!rsc：编程语言内存模型（内存模型，第 2 部分） --- research!rsc: Programming Language Memory Models (Memory Models, Part 2)",
+    "url": "https://research.swtch.com/plmm",
+    "timestamp": 1734050122
   }
 ]
