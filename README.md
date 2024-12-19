@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2024-12-19) [ISO 8583: The language of credit cards — Increase](202412/2024-12-19-iso-8583-the-language-of-credit-cards-%E2%80%94-increase.md)
 - (2024-12-18) [Why Companies Overspend on Recruiting and Underspend on Retention](202412/2024-12-18-why-companies-overspend-on-recruiting-and-underspend-on-retention.md)
 - (2024-12-13) [Research!rsc：编程语言内存模型（内存模型，第 2 部分） --- research!rsc: Programming Language Memory Models (Memory Models, Part 2)](202412/2024-12-13-research%21rsc%EF%BC%9A%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%EF%BC%88%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%AC%AC-2-%E9%83%A8%E5%88%86%EF%BC%89-----research%21rsc-programming-language-memory-models-%28memory-models%2C-part-2%29.md)
 - (2024-12-11) [digital consumption keeps me from getting better at my job](202412/2024-12-11-digital-consumption-keeps-me-from-getting-better-at-my-job.md)
