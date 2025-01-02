@@ -148,5 +148,11 @@
     "title": "Database mocks are just not worth it",
     "url": "https://www.shayon.dev/post/2024/365/database-mocks-are-just-not-worth-it/",
     "timestamp": 1735603889
+  },
+  {
+    "month": "202501",
+    "title": "Static search trees: 40x faster than binary search",
+    "url": "https://curiouscoding.nl/posts/static-search-tree/",
+    "timestamp": 1735777042
   }
 ]
