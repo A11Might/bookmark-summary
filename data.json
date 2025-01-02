@@ -160,5 +160,11 @@
     "title": "Most people don't care about quality",
     "url": "https://shkspr.mobi/blog/2024/12/most-people-dont-care-about-quality/",
     "timestamp": 1735777465
+  },
+  {
+    "month": "202501",
+    "title": "Developing inside a virtual machine | Georges Haidar",
+    "url": "https://blog.disintegrator.dev/posts/dev-virtual-machine/",
+    "timestamp": 1735777866
   }
 ]
