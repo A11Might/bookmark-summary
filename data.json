@@ -166,5 +166,11 @@
     "title": "Developing inside a virtual machine | Georges Haidar",
     "url": "https://blog.disintegrator.dev/posts/dev-virtual-machine/",
     "timestamp": 1735777866
+  },
+  {
+    "month": "202501",
+    "title": "Rules for Writing Software Tutorials",
+    "url": "https://refactoringenglish.com/chapters/rules-for-software-tutorials/",
+    "timestamp": 1735863619
   }
 ]
