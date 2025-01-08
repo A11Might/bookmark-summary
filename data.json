@@ -190,5 +190,11 @@
     "title": "Mistakes engineers make in large established codebases",
     "url": "https://www.seangoedecke.com/large-established-codebases/",
     "timestamp": 1736295999
+  },
+  {
+    "month": "202501",
+    "title": "crawshaw - 2025-01-06",
+    "url": "https://crawshaw.io/blog/programming-with-llms",
+    "timestamp": 1736296387
   }
 ]
