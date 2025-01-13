@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-13) [Link blog in a static site](202501/2025-01-13-link-blog-in-a-static-site.md)
 - (2025-01-09) [Ratchet effects determine engineer reputation at large companies](202501/2025-01-09-ratchet-effects-determine-engineer-reputation-at-large-companies.md)
 - (2025-01-08) [crawshaw - 2025-01-06](202501/2025-01-08-crawshaw---2025-01-06.md)
 - (2025-01-08) [Mistakes engineers make in large established codebases](202501/2025-01-08-mistakes-engineers-make-in-large-established-codebases.md)
