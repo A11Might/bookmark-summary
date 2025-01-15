@@ -214,5 +214,11 @@
     "title": "I spent 18 years in the Linux console and I don’t regret it",
     "url": "https://eugene-andrienko.com/en/it/2024/01/02/life-in-console.html",
     "timestamp": 1736728211
+  },
+  {
+    "month": "202501",
+    "title": "How rqlite is tested – Vallified",
+    "url": "https://philipotoole.com/how-is-rqlite-tested/",
+    "timestamp": 1736900053
   }
 ]
