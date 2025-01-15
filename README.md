@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-01-15) [Using Coding Skills to Make Passive Income](202501/2025-01-15-using-coding-skills-to-make-passive-income.md)
 - (2025-01-15) [How rqlite is tested – Vallified](202501/2025-01-15-how-rqlite-is-tested-%E2%80%93-vallified.md)
 - (2025-01-13) [I spent 18 years in the Linux console and I don’t regret it](202501/2025-01-13-i-spent-18-years-in-the-linux-console-and-i-don%E2%80%99t-regret-it.md)
 - (2025-01-13) [Link blog in a static site](202501/2025-01-13-link-blog-in-a-static-site.md)
