@@ -250,5 +250,11 @@
     "title": "Reverse Engineering My #1 Hacker News Article",
     "url": "https://danielwirtz.com/blog/successful-hacker-news-article",
     "timestamp": 1737869938
+  },
+  {
+    "month": "202501",
+    "title": "Every System is a Log: Avoiding coordination in distributed applications",
+    "url": "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/",
+    "timestamp": 1737871375
   }
 ]
