@@ -244,5 +244,11 @@
     "title": "Oh Shit, Git!?!",
     "url": "https://ohshitgit.com/",
     "timestamp": 1737073235
+  },
+  {
+    "month": "202501",
+    "title": "Reverse Engineering My #1 Hacker News Article",
+    "url": "https://danielwirtz.com/blog/successful-hacker-news-article",
+    "timestamp": 1737869938
   }
 ]
