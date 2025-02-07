@@ -256,5 +256,11 @@
     "title": "Every System is a Log: Avoiding coordination in distributed applications",
     "url": "https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/",
     "timestamp": 1737871375
+  },
+  {
+    "month": "202502",
+    "title": "Chat is a bad UI pattern for development tools—Daniel De Laney",
+    "url": "http://danieldelaney.net/chat/",
+    "timestamp": 1738890626
   }
 ]
