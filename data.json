@@ -268,5 +268,11 @@
     "title": "Don't be Frupid",
     "url": "https://selix.net/notes/dont-be-frupid",
     "timestamp": 1739234041
+  },
+  {
+    "month": "202502",
+    "title": "Patterns for building realtime features",
+    "url": "https://zknill.io/posts/patterns-for-building-realtime/",
+    "timestamp": 1739272174
   }
 ]

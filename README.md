@@ -2,6 +2,7 @@
 读取 bookmark-collection 中的书签，使用 jina reader 获取文本内容，然后使用 LLM 总结文本。详细实现请参见 process_changes.py。需要和 bookmark-collection 中的 Github Action 一起使用。
     
 ## Summarized Bookmarks
+- (2025-02-11) [Patterns for building realtime features](202502/2025-02-11-patterns-for-building-realtime-features.md)
 - (2025-02-11) [Don't be Frupid](202502/2025-02-11-don%27t-be-frupid.md)
 - (2025-02-07) [Chat is a bad UI pattern for development tools—Daniel De Laney](202502/2025-02-07-chat-is-a-bad-ui-pattern-for-development-tools%E2%80%94daniel-de-laney.md)
 - (2025-01-26) [Every System is a Log: Avoiding coordination in distributed applications](202501/2025-01-26-every-system-is-a-log-avoiding-coordination-in-distributed-applications.md)
