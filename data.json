@@ -274,5 +274,11 @@
     "title": "Patterns for building realtime features",
     "url": "https://zknill.io/posts/patterns-for-building-realtime/",
     "timestamp": 1739272174
+  },
+  {
+    "month": "202502",
+    "title": "Smuggling arbitrary data through an emoji",
+    "url": "https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/",
+    "timestamp": 1739405672
   }
 ]
