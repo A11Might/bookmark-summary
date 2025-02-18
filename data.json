@@ -286,5 +286,11 @@
     "title": "🏆 100 Most Watched Software Engineering Talks Of 2024",
     "url": "https://www.techtalksweekly.io/p/100-most-watched-software-engineering",
     "timestamp": 1739406196
+  },
+  {
+    "month": "202502",
+    "title": "searchcode.com’s SQLite database is probably 6 terabytes bigger than yours | Ben E. C. Boyter",
+    "url": "https://boyter.org/posts/searchcode-bigger-sqlite-than-you/",
+    "timestamp": 1739837798
   }
 ]
