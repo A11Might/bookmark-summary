@@ -292,5 +292,11 @@
     "title": "searchcode.com’s SQLite database is probably 6 terabytes bigger than yours | Ben E. C. Boyter",
     "url": "https://boyter.org/posts/searchcode-bigger-sqlite-than-you/",
     "timestamp": 1739837798
+  },
+  {
+    "month": "202502",
+    "title": "My LLM codegen workflow atm",
+    "url": "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/",
+    "timestamp": 1739924802
   }
 ]
